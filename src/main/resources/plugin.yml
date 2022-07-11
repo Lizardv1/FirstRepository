@@ -1,0 +1,5 @@
+name: FirstPlug
+version: '${project.version}'
+main: commandsplugin.firstplug.FirstPlug
+api-version: 1.19
+commands
